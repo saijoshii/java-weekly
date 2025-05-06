@@ -1,3 +1,1 @@
-# java-weekly
-java-final-project
-Name: Sai Joshi
+Java Weekly and Final Assignment - Sai Joshi
